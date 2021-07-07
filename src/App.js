@@ -13,7 +13,7 @@ function App() {
         <FormControl className="app__dropdown">
           <Select 
             variant="outlined"
-            value="abc"
+            value="abcde"
           >
             <MenuItem value="worldwide">Worldwide</MenuItem>
             <MenuItem value="worldwide">Optioin two</MenuItem>
